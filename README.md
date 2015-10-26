@@ -1,2 +1,2 @@
 # PkZIP-Unarchiver-in-C
-![alt](MacOSX_Demo.png)
+![MacOSX_Demo.png]
